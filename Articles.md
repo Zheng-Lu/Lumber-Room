@@ -1,7 +1,5 @@
 ## CVPR: Human-Object Interaction 相关文章链接汇总
 
-collected by anonymous S.Zhang
-
 ### 中文互联网链接
 
 [针对人物交互检测的功能迁移学习（综述）](https://xw.qq.com/cmsid/20210425A0AN4I00 "腾讯新闻")  |  [github代码地址](https://github.com/zhihou7/HOI-CL)
